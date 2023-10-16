@@ -1,0 +1,625 @@
+Question 1: What does HTML stand for?
+Option 1: Hyper Text Markup Language
+Option 2: High-level Text Markup Language
+Option 3: Hyperlink and Text Markup Language
+Option 4: Hyper Transfer Markup Language
+Correct Answer: Hyper Text Markup Language
+
+Question 2: In Python, which statement is used to exit from a loop?
+Option 1: break
+Option 2: continue
+Option 3: return
+Option 4: exit
+Correct Answer: break
+
+Question 3: What is the largest planet in our solar system?
+Option 1: Venus
+Option 2: Earth
+Option 3: Mars
+Option 4: Jupiter
+Correct Answer: Jupiter
+
+Question 4: Which programming language is known for its simplicity and readability?
+Option 1: C++
+Option 2: Java
+Option 3: Python
+Option 4: Ruby
+Correct Answer: Python
+
+Question 5: What is the value of π (pi) to three decimal places?
+Option 1: 3.142
+Option 2: 3.141
+Option 3: 3.140
+Option 4: 3.139
+Correct Answer: 3.142
+
+Question 6: In object-oriented programming, what is an "instance" of a class?
+Option 1: A variable
+Option 2: A function
+Option 3: A class
+Option 4: An object created from a class
+Correct Answer: An object created from a class
+
+Question 7: Which data structure follows the Last-In-First-Out (LIFO) principle?
+Option 1: Queue
+Option 2: Stack
+Option 3: List
+Option 4: Tree
+Correct Answer: Stack
+
+Question 8: What is the capital of France?
+Option 1: Berlin
+Option 2: London
+Option 3: Paris
+Option 4: Madrid
+Correct Answer: Paris
+
+Question 9: In C++, what is the "cin" object used for?
+Option 1: Output
+Option 2: File I/O
+Option 3: Keyboard input
+Option 4: String manipulation
+Correct Answer: Keyboard input
+
+Question 10: Which programming language is often used for developing mobile apps for iOS devices?
+Option 1: Java
+Option 2: Python
+Option 3: Swift
+Option 4: C#
+Correct Answer: Swift
+
+Question 11: What is the primary purpose of the "else" statement in an "if-else" statement?
+Option 1: To execute a block of code if the condition is true.
+Option 2: To handle exceptions.
+Option 3: To execute a block of code if the condition is false.
+Option 4: To define a loop.
+Correct Answer: To execute a block of code if the condition is false.
+
+Question 12: What does the acronym "SQL" stand for in the context of databases?
+Option 1: Structured Query Language
+Option 2: Standard Query Language
+Option 3: System Query Language
+Option 4: Sequential Query Language
+Correct Answer: Structured Query Language
+
+Question 13: In web development, which programming language is used for adding interactivity and behavior to websites?
+Option 1: HTML
+Option 2: CSS
+Option 3: JavaScript
+Option 4: PHP
+Correct Answer: JavaScript
+
+Question 14: What is the purpose of the "for" loop in programming?
+Option 1: To execute a block of code repeatedly while a condition is true.
+Option 2: To define a function.
+Option 3: To create a class.
+Option 4: To handle errors.
+Correct Answer: To execute a block of code repeatedly while a condition is true.
+
+Question 15: What is the file extension commonly used for Python source code files?
+Option 1: .pyt
+Option 2: .script
+Option 3: .py
+Option 4: .python
+Correct Answer: .py
+
+Question 16: In object-oriented programming, what is encapsulation?
+Option 1: A way to hide data and restrict access to it
+Option 2: A method to destroy objects
+Option 3: A type of loop
+Option 4: A way to execute code repeatedly
+Correct Answer: A way to hide data and restrict access to it
+
+Question 17: Which data structure follows the First-In-First-Out (FIFO) principle?
+Option 1: Stack
+Option 2: Queue
+Option 3: List
+Option 4: Tree
+Correct Answer: Queue
+
+Question 18: What is the primary purpose of a version control system like Git?
+Option 1: To track changes in code and collaborate with others
+Option 2: To write code documentation
+Option 3: To compile code
+Option 4: To test code
+Correct Answer: To track changes in code and collaborate with others
+
+Question 19: What is the purpose of the "break" statement in a loop?
+Option 1: To exit the loop and continue with the next iteration
+Option 2: To execute a block of code repeatedly
+Option 3: To check for errors
+Option 4: To define a function
+Correct Answer: To exit the loop and continue with the next iteration
+
+Question 20: In Python, how do you comment a single line of code?
+Option 1: // This is a comment
+Option 2: # This is a comment
+Option 3: /* This is a comment */
+Option 4: <!-- This is a comment -->
+Correct Answer: # This is a comment
+
+Question 21: What is the term for a named block of code that can be called and executed when needed?
+Option 1: Function
+Option 2: Loop
+Option 3: Variable
+Option 4: Class
+Correct Answer: Function
+
+Question 22: Which programming language is often used for game development and simulations?
+Option 1: Ruby
+Option 2: Lua
+Option 3: Rust
+Option 4: COBOL
+Correct Answer: Lua
+
+Question 23: What is the result of 2 + 3 * 4?
+Option 1: 10
+Option 2: 14
+Option 3: 20
+Option 4: 12
+Correct Answer: 14
+
+Question 24: In object-oriented programming, what is inheritance?
+Option 1: A way to create new objects
+Option 2: A way to define loops
+Option 3: A mechanism to reuse and extend classes
+Option 4: A way to comment code
+Correct Answer: A mechanism to reuse and extend classes
+
+Question 25: What is the primary purpose of the "elif" statement in Python's "if-elif-else" construct?
+Option 1: To execute a block of code if the condition is true
+Option 2: To handle exceptions
+Option 3: To specify an alternate condition
+Option 4: To exit the program
+Correct Answer: To specify an alternate condition
+
+Question 26: What is the symbol for the logical AND operator in Python?
+Option 1: &&
+Option 2: ||
+Option 3: AND
+Option 4: and
+Correct Answer: and
+
+Question 27: Which programming language is often used for data analysis and scientific computing?
+Option 1: JavaScript
+Option 2: Ruby
+Option 3: Python
+Option 4: Swift
+Correct Answer: Python
+
+Question 28: What is the term for a variable that is accessible from any part of a program?
+Option 1: Local variable
+Option 2: Global variable
+Option 3: Class variable
+Option 4: Instance variable
+Correct Answer: Global variable
+
+Question 29: What is the purpose of the "try" and "except" blocks in Python?
+Option 1: To define a function
+Option 2: To create an object
+Option 3: To handle exceptions and errors
+Option 4: To write comments
+Correct Answer: To handle exceptions and errors
+
+Question 30: In the context of databases, what does "SQL injection" refer to?
+Option 1: A technique to retrieve data from a database
+Option 2: A security vulnerability where malicious SQL statements are inserted into user inputs
+Option 3: A way to encrypt data in a database
+Option 4: A data modeling technique
+Correct Answer: A security vulnerability where malicious SQL statements are inserted into user inputs
+
+Question 31: In JavaScript, which function is used to print a message to the console?
+Option 1: print()
+Option 2: log()
+Option 3: console.log()
+Option 4: display()
+Correct Answer: console.log()
+
+Question 32: What is the purpose of the "continue" statement in a loop?
+Option 1: To exit the loop and terminate the program
+Option 2: To execute a block of code repeatedly
+Option 3: To skip the current iteration and continue with the next one
+Option 4: To check for syntax errors
+Correct Answer: To skip the current iteration and continue with the next one
+
+Question 33: Which programming language is often used for developing web applications and server-side scripting?
+Option 1: Python
+Option 2: C++
+Option 3: Ruby
+Option 4: PHP
+Correct Answer: PHP
+
+Question 34: In object-oriented programming, what is polymorphism?
+Option 1: A way to destroy objects
+Option 2: A way to define loops
+Option 3: The ability of objects of different classes to be treated as objects of a common base class
+Option 4: A way to execute code repeatedly
+Correct Answer: The ability of objects of different classes to be treated as objects of a common base class
+
+Question 35: What is the term for a variable that is declared inside a function and is only accessible within that function?
+Option 1: Local variable
+Option 2: Global variable
+Option 3: Class variable
+Option 4: Instance variable
+Correct Answer: Local variable
+
+Question 36: In Python, how do you comment multiple lines of code?
+Option 1: /* This is a comment */
+Option 2: <!-- This is a comment -->
+Option 3: # This is a comment
+Option 4: ''' This is a comment '''
+Correct Answer: ''' This is a comment '''
+
+Question 37: What is the term for a process that involves finding and fixing errors in a program?
+Option 1: Debugging
+Option 2: Compiling
+Option 3: Commenting
+Option 4: Testing
+Correct Answer: Debugging
+
+Question 38: Which data structure follows the Last-In-First-Out (LIFO) principle?
+Option 1: Stack
+Option 2: Queue
+Option 3: List
+Option 4: Tree
+Correct Answer: Stack
+
+Question 39: In programming, what is a variable?
+Option 1: A type of loop
+Option 2: A way to create a class
+Option 3: A named storage location for data
+Option 4: A way to handle errors
+Correct Answer: A named storage location for data
+
+Question 40: Which programming language is often used for developing mobile apps for Android devices?
+Option 1: Swift
+Option 2: Java
+Option 3: C#
+Option 4: Ruby
+Correct Answer: Java
+
+Question 41: What is the primary purpose of a function in programming?
+Option 1: To define a loop
+Option 2: To create an object
+Option 3: To execute a block of code repeatedly
+Option 4: To group a sequence of statements into a single unit
+Correct Answer: To group a sequence of statements into a single unit
+
+Question 42: What does the acronym "API" stand for in software development?
+Option 1: Application Programming Interface
+Option 2: Automated Program Interaction
+Option 3: Advanced Programming Instruction
+Option 4: Application Program Identifier
+Correct Answer: Application Programming Interface
+
+Question 43: What is the result of 10 / 2 in most programming languages?
+Option 1: 5
+Option 2: 2.5
+Option 3: 0.2
+Option 4: 10
+Correct Answer: 5
+
+Question 44: What is the term for the process of finding and removing bugs in a program?
+Option 1: Testing
+Option 2: Debugging
+Option 3: Compiling
+Option 4: Commenting
+Correct Answer: Debugging
+
+Question 45: Which programming language is known for its use in game development and simulations?
+Option 1: JavaScript
+Option 2: Lua
+Option 3: Rust
+Option 4: COBOL
+Correct Answer: Lua
+
+Question 46: What is the primary purpose of the "elif" statement in Python's "if-elif-else" construct?
+Option 1: To execute a block of code if the condition is true
+Option 2: To handle exceptions
+Option 3: To specify an alternate condition
+Option 4: To exit the program
+Correct Answer: To specify an alternate condition
+
+Question 47: What does the "DOCTYPE" declaration in HTML specify?
+Option 1: The document type
+Option 2: The document content
+Option 3: The document author
+Option 4: The document style
+Correct Answer: The document type
+
+Question 48: In Python, which operator is used for string concatenation?
+Option 1: +
+Option 2: -
+Option 3: *
+Option 4: /
+Correct Answer: +
+
+Question 49: What is the term for a set of rules and conventions for writing code in a programming language?
+Option 1: Syntax
+Option 2: Function
+Option 3: Variable
+Option 4: Object
+Correct Answer: Syntax
+
+Question 50: Which data structure allows you to store multiple values of different types in a single variable?
+Option 1: List
+Option 2: Tuple
+Option 3: Dictionary
+Option 4: Set
+Correct Answer: List
+
+Question 51: In Python, what is the purpose of the "else" statement in a loop?
+Option 1: To exit the loop and terminate the program
+Option 2: To execute a block of code repeatedly
+Option 3: To handle exceptions
+Option 4: To execute a block of code if the loop completes without break
+Correct Answer: To execute a block of code if the loop completes without break
+
+Question 52: What does the term "algorithm" refer to in programming?
+Option 1: A way to exit a program
+Option 2: A sequence of instructions for solving a problem
+Option 3: A data type
+Option 4: A class definition
+Correct Answer: A sequence of instructions for solving a problem
+
+Question 53: What is the term for a programming error that causes the program to crash?
+Option 1: Syntax error
+Option 2: Logic error
+Option 3: Runtime error
+Option 4: Compilation error
+Correct Answer: Runtime error
+
+Question 54: In object-oriented programming, what is a "method"?
+Option 1: A way to comment code
+Option 2: A type of loop
+Option 3: A function associated with an object or class
+Option 4: A way to destroy objects
+Correct Answer: A function associated with an object or class
+
+Question 55: What is the result of 3 ** 2 in most programming languages?
+Option 1: 9
+Option 2: 6
+Option 3: 12
+Option 4: 18
+Correct Answer: 9
+
+Question 56 (continued): Which data structure allows you to store key-value pairs?
+Option 1: List
+Option 2: Set
+Option 3: Tuple
+Option 4: Dictionary
+Correct Answer: Dictionary
+
+Question 57: What is the purpose of the "finally" block in a try-except-finally construct in Python?
+Option 1: To specify the exception to catch
+Option 2: To handle exceptions
+Option 3: To define a function
+Option 4: To execute code that must run regardless of whether an exception is raised
+Correct Answer: To execute code that must run regardless of whether an exception is raised
+
+Question 58: In Python, what is the "self" parameter commonly used for in class methods?
+Option 1: To represent the class itself
+Option 2: To specify a return value
+Option 3: To execute code repeatedly
+Option 4: To define a loop
+Correct Answer: To represent the class itself
+
+Question 59: What is the purpose of the "=="" operator in programming?
+Option 1: To assign a value to a variable
+Option 2: To compare two values for equality
+Option 3: To define a loop
+Option 4: To create a class
+Correct Answer: To compare two values for equality
+
+Question 60: In JavaScript, what is an "event handler"?
+Option 1: A way to handle exceptions
+Option 2: A function that responds to a user action or an event
+Option 3: A class definition
+Option 4: A way to comment code
+Correct Answer: A function that responds to a user action or an event
+
+Question 61: What does the acronym "URL" stand for in web development?
+Option 1: Universal Resource Locator
+Option 2: Uniform Resource Link
+Option 3: Unique Resource Locator
+Option 4: Universal Resource Link
+Correct Answer: Universal Resource Locator
+
+Question 62: What is the term for a unique identifier for a variable in programming?
+Option 1: Type
+Option 2: Name
+Option 3: Class
+Option 4: Instance
+Correct Answer: Name
+
+Question 63: In Python, what is the result of the expression "3 + '2'"?
+Option 1: 5
+Option 2: '5'
+Option 3: TypeError
+Option 4: 32
+Correct Answer: TypeError
+
+Question 64: What is the primary purpose of the "switch" statement in programming languages like JavaScript?
+Option 1: To define a loop
+Option 2: To execute code repeatedly
+Option 3: To handle exceptions
+Option 4: To make decisions based on the value of an expression
+Correct Answer: To make decisions based on the value of an expression
+
+Question 65: What is the term for a variable that can hold multiple values?
+Option 1: Scalar variable
+Option 2: Boolean variable
+Option 3: Array variable
+Option 4: Object variable
+Correct Answer: Array variable
+
+Question 66: What is the result of "true AND false" in most programming languages?
+Option 1: true
+Option 2: false
+Option 3: Error
+Option 4: null
+Correct Answer: false
+
+Question 67: In web development, what is the purpose of the "href" attribute in an anchor (a) element?
+Option 1: To specify the content of the link
+Option 2: To define a loop
+Option 3: To assign a function to the link
+Option 4: To specify the URL of the link
+Correct Answer: To specify the URL of the link
+
+Question 68: In Python, what is the result of the expression "10 // 3"?
+Option 1: 3.333
+Option 2: 3.0
+Option 3: 3
+Option 4: 0.3
+Correct Answer: 3
+
+Question 69: What is the purpose of the "import" statement in Python?
+Option 1: To define a loop
+Option 2: To execute code repeatedly
+Option 3: To include external modules or libraries
+Option 4: To handle exceptions
+Correct Answer: To include external modules or libraries
+
+Question 70: In programming, what is the term for a block of code that is repeated a specific number of times?
+Option 1: Function
+Option 2: Variable
+Option 3: Loop
+Option 4: Object
+Correct Answer: Loop
+
+Question 71: What is the result of "null OR true" in most programming languages?
+Option 1: true
+Option 2: false
+Option 3: Error
+Option 4: null
+Correct Answer: true
+
+Question 72: In Python, what is the purpose of the "with" statement in file handling?
+Option 1: To execute code repeatedly
+Option 2: To handle exceptions
+Option 3: To define a loop
+Option 4: To create a context manager for resource management
+Correct Answer: To create a context manager for resource management
+
+Question 73: In JavaScript, what is a "closure"?
+Option 1: A way to execute code repeatedly
+Option 2: A type of loop
+Option 3: A function that has access to variables from its containing function, even after the containing function has completed
+Option 4: A way to destroy objects
+Correct Answer: A function that has access to variables from its containing function, even after the containing function has completed
+
+Question 74: What does the acronym "HTML" stand for in web development?
+Option 1: Hypertext Markup Language
+Option 2: High-Level Text Markup Language
+Option 3: Hyperlink and Text Markup Language
+Option 4: High-Level Transfer Markup Language
+Correct Answer: Hypertext Markup Language
+
+Question 75: In Python, what is the purpose of the "elif" statement in a conditional structure?
+Option 1: To execute a block of code if the condition is true
+Option 2: To handle exceptions
+Option 3: To specify an alternate condition
+Option 4: To exit the program
+Correct Answer: To specify an alternate condition
+
+Question 76: What is the term for a data type that can have one of a limited set of values?
+Option 1: Scalar
+Option 2: Enumerated
+Option 3: Boolean
+Option 4: Array
+Correct Answer: Enumerated
+
+Question 77: In web development, what is the "CSS" language used for?
+Option 1: Creating databases
+Option 2: Defining the structure and presentation of web pages
+Option 3: Handling server-side logic
+Option 4: Storing cookies
+Correct Answer: Defining the structure and presentation of web pages
+
+Question 78: In Python, what is a "generator"?
+Option 1: A way to define a loop
+Option 2: A type of loop
+Option 3: A special type of function that generates values on-the-fly
+Option 4: A way to comment code
+Correct Answer: A special type of function that generates values on-the-fly
+
+Question 1
+What is the capital of France?
+Option 1: Madrid
+Option 2: Berlin
+Option 3: Paris
+Option 4: London
+Correct Answer: Paris
+
+Question 2
+Which planet is known as the Red Planet?
+Option 1: Mars
+Option 2: Jupiter
+Option 3: Saturn
+Option 4: Earth
+Correct Answer: Mars
+
+Question 3
+What is the largest mammal in the world?
+Option 1: Elephant
+Option 2: Blue Whale
+Option 3: Giraffe
+Option 4: Lion
+Correct Answer: Blue Whale
+
+Question 4
+What is the chemical symbol for gold?
+Option 1: Go
+Option 2: Gl
+Option 3: Au
+Option 4: Ag
+Correct Answer: Au
+
+Question 5
+How many continents are there in the world?
+Option 1: 5
+Option 2: 6
+Option 3: 7
+Option 4: 8
+Correct Answer: 7
+
+Question 6
+Which gas do plants absorb from the atmosphere?
+Option 1: Oxygen
+Option 2: Nitrogen
+Option 3: Carbon Dioxide
+Option 4: Hydrogen
+Correct Answer: Carbon Dioxide
+
+Question 7
+Who wrote the play 'Romeo and Juliet'?
+Option 1: William Shakespeare
+Option 2: Charles Dickens
+Option 3: Jane Austen
+Option 4: Mark Twain
+Correct Answer: William Shakespeare
+
+Question 8
+Which country is famous for the sport of sumo wrestling?
+Option 1: China
+Option 2: Russia
+Option 3: Japan
+Option 4: Brazil
+Correct Answer: Japan
+
+Question 9
+What is the chemical symbol for water?
+Option 1: H2O
+Option 2: CO2
+Option 3: O2
+Option 4: NaCl
+Correct Answer: H2O
+
+Question 10
+Who is the author of the 'Harry Potter' book series?
+Option 1: J.R.R. Tolkien
+Option 2: George Orwell
+Option 3: J.K. Rowling
+Option 4: Agatha Christie
+Correct Answer: J.K. Rowling
